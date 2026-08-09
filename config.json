@@ -1,1 +1,46 @@
 
+{
+  "appVersion": "1.2",
+  "maxStudents": 8,
+  "maxGroups": 1,
+  "updateChannelUrl": "https://t.me/mo33lim",
+  "updateMessage": "",
+  "pricing": {
+    "monthlyPrice": 70,
+    "yearlyPrice": 120
+  },
+  "devPayment": {
+    "contactPhone": "",
+    "instapay": "",
+    "vodafoneCash": "",
+    "qr": null
+  },
+  "codes": [],
+  "adPlacements": [
+    {
+      "id": "footer",
+      "enabled": true,
+      "code": ""
+    },
+    {
+      "id": "confirmDialog",
+      "enabled": false,
+      "code": ""
+    },
+    {
+      "id": "dashboardTop",
+      "enabled": false,
+      "code": ""
+    },
+    {
+      "id": "dashboardBottom",
+      "enabled": false,
+      "code": ""
+    },
+    {
+      "id": "financialBottom",
+      "enabled": false,
+      "code": ""
+    }
+  ]
+}
